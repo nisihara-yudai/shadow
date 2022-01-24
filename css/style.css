@@ -1,0 +1,30 @@
+#practice01{
+  box-shadow: 3px 3px 2px #000;
+  background: #f00;
+  width: 100px;
+  height: 100px;
+}
+
+#moji #language{
+  text-shadow: 4px 4px 2px mediumaquamarine;
+  color: green;
+}
+
+#practice02{
+  width: 200px;
+  height: 200px;
+  box-shadow: 10px 10px #000;
+  background: #f00;
+}
+
+#mine01{
+  background: aqua;
+  box-shadow: 10px 10px 2px blue;
+  width: 300px;
+  height: 300px;
+}
+
+p #mine02{
+  text-shadow: 30px 30px 10px #000;
+  color: red;
+}
