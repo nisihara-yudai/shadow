@@ -24,7 +24,7 @@
   height: 300px;
 }
 
-p #mine02{
-  text-shadow: 30px 30px 10px #000;
+#mine02{
+  text-shadow: 15px 15px 2px#000;
   color: red;
 }
